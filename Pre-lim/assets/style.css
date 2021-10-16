@@ -1,0 +1,255 @@
+h1{
+    color:brown;
+}
+
+.h1{
+    font-weight: bolder;
+    color:brown
+}
+
+p{
+    color:brown;
+}
+
+
+
+
+th{ 
+    border: .5px solid black;
+    border-collapse: collapse;
+    border-style: solid;
+    font-family:'Arial Narrow';
+    background-color: #bde9ba; 
+    height: 4px;
+    width: 200px;
+}
+
+.t1{
+    
+    font-weight: bolder;
+    color: red;
+}
+
+.t2{
+    font-weight: bolder;
+    color:red;
+}
+.t3{
+    font-weight: bolder;
+    color:blue
+    
+}
+
+.t4{
+    font-weight: bolder;
+    color : green;
+
+}
+
+.t5{
+    font-weight: bolder;
+    color: orange
+
+}
+
+
+.c2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.c3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(48, 54, 110)
+
+}
+
+.c4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:red
+
+}
+
+.c5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:green
+
+}
+
+.c6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:black
+}
+
+.c7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(48, 54, 110)
+}
+
+.c8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(48, 54, 110)
+}
+
+.c9{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(48, 54, 110)
+}
+
+
+.a1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.a2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(48, 54, 110)
+}
+
+
+.a3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(33, 35, 48)
+    
+}
+
+
+.a4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:pink
+}
+
+
+.a5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:blue
+
+}
+
+
+.a6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:green
+}
+
+
+.a7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+
+.a8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+
+.a9{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+.b1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+.b2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+
+.b3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+
+.b4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:yellow
+
+}
+
+
+.b5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown
+}
+
+
+.b6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:orange
+
+}
+
+
+.b7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red
+}
+
+
+.b8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+
+}
+
+
+.b9{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+
+}
+
+
+.b10{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(48, 54, 110)
+}
+
+.d1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
+}
+.d2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:red
+
+}
+
+.d3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:brown
+}
+
+footer{
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
