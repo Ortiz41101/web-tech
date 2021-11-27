@@ -1,0 +1,19 @@
+.Differentiate the following CSS selectors (20 pts)
+a.	Combining selectors 
+-Combine selectors  is the special character use to be specific in code like using plus sign(+), greater than (>), etc. It is also help define relationship to others.
+b. Class and ID selectors 
+	class selectors use special character “. (dot)” in CSS and for putting class in the code  using “ class=” “ “and any tag. it is also  applicable in id selector but in id it uses “#” this special character for sample ”nav id=” “  “
+c. Pseudo-classes
+-it is used to for putting element or effects in given link like in <li> or <a> tags as it gives hover effect in color  and size, when visited it may put also effects or style.
+
+Differentiate the following hyperlinks styling attributes (20pts) 
+a.	a:hover 
+-it is a  pseudo-class when the cursor pointed in a link that have a:hover code and put elements to style it may change in size, have background. Change in font style and etc.
+b. a:active 
+	- it is a pseudo class when you click the link  currently into it the link or the text may change also in size  , font style, etc.
+c. a:visited 
+	- it is a pseudo class when you visited a link or sign a clue that you already visited it change in color, and different characteristics or style on it.
+d. a:link	
+	- it is a pseudo class that you put  style when a link is unvisited or not being hover.
+
+

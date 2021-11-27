@@ -1,0 +1,213 @@
+html{
+    border-top: ;
+}
+.headercontainer{
+    color: rgb(37, 146, 166);
+    background-color:rgba(236, 232, 232, 0.329) ;
+    padding: 20px 50px;
+    width: 910px;
+    font-weight:900;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 30px;
+}
+
+body{
+    float: right;
+    width: 1000px;
+    background-color:rgba(236, 232, 232, 0.329) ;
+    border-bottom: 5px solid rgb(20, 153, 174);
+    padding: 10px 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.leftnav{
+    color:rgb(37, 146, 166);
+    float: left;
+    background-color:rgba(236, 232, 232, 0.329) ;
+    padding: 10px 10px;
+    width: 280px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 790 ;
+    font-size: 20;
+
+}
+.leftnav a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+  
+}
+.article_container{
+    float: right;
+    width: 500px;
+    color: rgb(37, 146, 166);
+    padding: 10px 90px;
+}
+
+h1{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+}
+
+h1::after{
+    content: "TOP";
+    background-color: #ffe70e;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 880;
+    display: inline-block;
+    padding: 5px 10px;
+    position: relative;
+    top: -40px;
+    right: -30px;
+    float: right;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leftnav2{
+    float: left;
+    width: 300px;
+    font-weight: 780;
+    background-color:rgba(236, 232, 232, 0.329) ;
+    border-top:5px solid #1098ad; ;
+    border-bottom: 5px solid #ad351a;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topic{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 17px;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aside_container{
+    float: left;
+    width: 300px;
+    background-color:rgba(236, 232, 232, 0.329) ;
+    border-top:5px solid #1098ad; 
+    border-bottom: 5px solid #1098ad;
+    padding: 10px 10px;
+    margin-top: 20px;
+    color: rgb(37, 146, 166); 
+    font-weight: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h3{
+    color: black;
+}
+
+
+
+a:link{
+    color: rgb(37, 146, 166); 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 500px;
+    margin-top: 500px;
+    font-weight:900px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: white;
+}
+
+.syntax{
+    padd
+    padding: 10px 10px;
+    background-color: #000000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.comments{
+    padding: 10px 10px;
+    background-color: #000000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.variable{
+    padding: 10px 10px;
+    background-color: #000000;
+    color: white;
+    
+}
+
+
+.data_types{
+    padding: 10px 10px;
+    background-color: #000000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:active{
+    color: rgb(37, 146, 166); 
+}
+
+a:visited{
+    color: rgb(37, 146, 166); 
+}
+
+
+
+button{
+    font-size: 30px;
+    margin-left: 30px; 
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 5px;
+    margin-top: 10px;
+    
+}
+
+footer{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.r1 .r2 .r3{
+    padding: 2px 1px;
+    float: left;
+}
+
+img{
+    float: left;
+}
+
+.r1c .r2c .r3c{
+    padding: 2px 1px;
+    float: left;
+}
+
+.aside_container::before{
+    content: "HOT";
+    background-color: #ffe70e;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: 900px;
+    display:inline-block;
+    padding: 5px 10px;
+    position:relative;
+    top: -150;
+    right: -25px;
+    float: right;
+}
+
+.r11 .r22 .r33{
+    font: size 7px;;
+}
